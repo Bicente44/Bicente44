@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Welbourne</h1>
-🔭 I’m currently working on preparing for my studies<br><br>🌱 I’m currently learning C++, R and about Compilers.<br><br>📫 How to reach me, vincentdog9259@gmail.com
+🔭 I’m currently working on preparing for my studies<br><br>🌱 I’m currently learning C++, R and about Compilers.<br><br>📫 How to reach me, vincent.vw04@gmail.com
 
 
 ## 🌐 Socials:
